@@ -97,7 +97,7 @@ Desarrollo de software · Ingeniería de software · Inteligencia Artificial · 
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="165" src="[https://github-readme-stats.vercel.app/api?username=AndyAjiatas07&show_icons=true&theme=default&hide_border=true&title_color=AA3BFF&icon_color=14B8A6](https://github-readme-stats-eta-taupe-84.vercel.app/api?username=AndyAjiatas07&show_icons=true&theme=default&hide_border=true&title_color=AA3BFF&icon_color=14B8A6)" />
+  <img height="165" src="https://github-readme-stats-eta-taupe-84.vercel.app/api?username=AndyAjiatas07&show_icons=true&theme=default&hide_border=true&title_color=AA3BFF&icon_color=14B8A6" />
   <img height="165" src="https://github-readme-stats-eta-taupe-84.vercel.app/api/top-langs/?username=AndyAjiatas07&layout=compact&hide_border=true&title_color=AA3BFF" />
 </p>
 
